@@ -1,4 +1,4 @@
-## 🧪 Welcome to My GitHub Profile! 🍎
+## 🧪 Welocome to my repo! 🍎
 
 🎓 I'm a **PhD student in Chemical Science and Technology** at **ICIQ**, with a background in **Physics** and an **M.Sc. in Materials Science and Technology**.  
 🔬 My research focuses on  **machine learning** and **computational chemistry**.  
