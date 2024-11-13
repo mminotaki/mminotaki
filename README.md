@@ -6,7 +6,7 @@
 🔍 Feel free to explore my repositories and projects!
 
 
-## 💻 Languages and Tools
+### 💻 Languages and Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logoColor=white" height="25"/>
@@ -28,9 +28,8 @@
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="25"/>
 </div>
-
-
-
 <br>
+
+### 📊 Stats
 
 ![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mminotaki&theme=synthwave&show_icons=true)
