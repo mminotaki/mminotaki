@@ -6,7 +6,7 @@
 🔍 Feel free to explore my repositories and projects!
 
 
-## 💻 Tech Skills
+## 💻 Languages and Tools
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logoColor=white" height="25"/>
