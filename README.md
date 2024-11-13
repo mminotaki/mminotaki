@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Maria! 
+## 👋 Hi, I'm Maria! 
 
 🎓 I'm a **PhD student in Chemical Science and Technology** at **ICIQ**, with a background in **Physics** and an **M.Sc. in Materials Science and Technology**.  
 🔬 My research focuses on  **machine learning** and **computational chemistry**.  
@@ -6,7 +6,7 @@
 🔍 Feel free to explore my repositories and projects!
 
 
-#### 💻 Tech Skills
+## 💻 Tech Skills
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logoColor=white" height="25"/>
@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="25"/>
 </div>
+
+
 
 <br>
 
