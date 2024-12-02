@@ -29,7 +29,3 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="25"/>
 </div>
 <br>
-
-### 📊 Stats
-
-![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=mminotaki&theme=synthwave&show_icons=true)
