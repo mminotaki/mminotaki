@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Maria! 
+## Hi, I'm Maria! 
 
 🎓 I'm a **PhD student in Chemical Science and Technology** at **ICIQ**, with a **BSc in Physics** and an **M.Sc. in Materials Science and Technology**.  
 🔬 My research focuses on  **machine learning** and **computational chemistry**.  
